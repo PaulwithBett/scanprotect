@@ -10,7 +10,7 @@ reddit = praw.Reddit(client_id = 'OiAW28ePr0xVUQ',
 client_secret = 'fca3r_79Vt05iSvf20FnJXAxUfDbkg',
 user_agent = 'console: message_bot 1.0',
 username = 'Consistent-Ad7472',
-password = 'rcticfox11')
+password = 'Arcticfox11')
 
 def check_author(author):
     
